@@ -30,7 +30,7 @@ El dataset recopila información sobre incidentes de muertes por disparos polici
 
 ---
 
-## 📊 Visualizaciones Implementadas
+##  Visualizaciones Implementadas
 
 1. Gráfico de barras comparativo de casos por raza  
 2. Distribución de edades (histograma y rangos)  
@@ -42,7 +42,7 @@ El dataset recopila información sobre incidentes de muertes por disparos polici
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Framework**: Streamlit  
 - **Lenguaje**: Python  
